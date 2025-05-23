@@ -1,4 +1,4 @@
-package com.oop.hospitalSystemManagementExample;
+package com.oop.examples.hospitalSystemManagementExample;
 
 import java.util.ArrayList;
 import java.util.List;

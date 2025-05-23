@@ -1,4 +1,4 @@
-package com.oop.onlineOrderSystemProcessExample;
+package com.oop.examples.onlineOrderSystemProcessExample;
 
 // وراثت و چندریختی: سبد خرید با تخفیف
 class DiscountedCart extends Cart {

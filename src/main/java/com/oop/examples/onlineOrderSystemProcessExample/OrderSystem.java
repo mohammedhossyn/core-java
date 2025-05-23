@@ -1,4 +1,4 @@
-package com.oop.onlineOrderSystemProcessExample;
+package com.oop.examples.onlineOrderSystemProcessExample;
 
 import java.util.ArrayList;
 import java.util.List;

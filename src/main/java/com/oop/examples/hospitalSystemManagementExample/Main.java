@@ -1,4 +1,4 @@
-package com.oop.hospitalSystemManagementExample;
+package com.oop.examples.hospitalSystemManagementExample;
 
 public class Main {
     public static void main(String[] args) {

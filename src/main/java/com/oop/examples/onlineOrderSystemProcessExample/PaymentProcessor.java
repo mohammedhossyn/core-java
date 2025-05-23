@@ -1,4 +1,4 @@
-package com.oop.onlineOrderSystemProcessExample;
+package com.oop.examples.onlineOrderSystemProcessExample;
 
 // انتزاع: رابط برای پردازش پرداخت
 interface PaymentProcessor {

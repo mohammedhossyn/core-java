@@ -1,4 +1,4 @@
-package com.oop.onlineOrderSystemProcessExample;
+package com.oop.examples.onlineOrderSystemProcessExample;
 
 // چندریختی و انتزاع: پیاده‌سازی پردازش پرداخت
 class CreditCardProcessor implements PaymentProcessor {

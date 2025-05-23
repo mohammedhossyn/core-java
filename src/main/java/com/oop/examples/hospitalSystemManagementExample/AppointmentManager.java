@@ -1,4 +1,4 @@
-package com.oop.hospitalSystemManagementExample;
+package com.oop.examples.hospitalSystemManagementExample;
 
 // انتزاع: رابط برای مدیریت نوبت‌ها
 interface AppointmentManager {

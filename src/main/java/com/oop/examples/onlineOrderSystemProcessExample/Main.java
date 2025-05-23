@@ -1,4 +1,4 @@
-package com.oop.onlineOrderSystemProcessExample;
+package com.oop.examples.onlineOrderSystemProcessExample;
 
 public class Main {
     public static void main(String[] args) {

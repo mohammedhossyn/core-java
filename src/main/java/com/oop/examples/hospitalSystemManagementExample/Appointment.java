@@ -1,4 +1,4 @@
-package com.oop.hospitalSystemManagementExample;
+package com.oop.examples.hospitalSystemManagementExample;
 
 // کپسوله‌سازی و انتزاع: کلاس نوبت
 class Appointment {

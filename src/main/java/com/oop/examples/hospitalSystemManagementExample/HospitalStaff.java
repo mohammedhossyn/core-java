@@ -1,4 +1,4 @@
-package com.oop.hospitalSystemManagementExample;
+package com.oop.examples.hospitalSystemManagementExample;
 
 // وراثت: کلاس پایه برای پرسنل بیمارستان
 abstract class HospitalStaff {
