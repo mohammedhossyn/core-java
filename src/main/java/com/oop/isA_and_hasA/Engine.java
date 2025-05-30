@@ -1,5 +1,6 @@
 package com.oop.isA_and_hasA;
 
+// کلاس برای موتور (برای رابطه Has-A)
 class Engine {
     private String type;
 
@@ -11,4 +12,3 @@ class Engine {
         System.out.println(type + " engine is starting");
     }
 }
-
